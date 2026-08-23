@@ -2,7 +2,7 @@
 
 ### The internet's most useless website.
 
-https://getuseless.name.ng/
+https://www.getuseless.name.ng/
 
 We have productivity apps.
 
@@ -75,7 +75,7 @@ GETUSELESS exists to give you permission to waste a few minutes.
 
 ## Try it
 
-👉 https://getuseless.name.ng/
+👉 https://www.getuseless.name.ng/
 
 You probably have something better to do.
 
